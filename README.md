@@ -33,9 +33,6 @@ Turn on Developer mode.
 - Confirm Installation: Confirm that the extension is now listed on the Extensions page and is enabled.
 - Open a new tab and check whether the extension is working as expected.
 
-### Mozilla Firefox
-
-- Direct Install from store: <https://addons.mozilla.org/en-GB/firefox/addon/youtube-adblocker-free/>
 
 --------------------------------------- Or ---------------------------------------
 
@@ -56,13 +53,7 @@ Choose `Manage`
 - Confirm Installation: Confirm that the extension is listed on the Add-ons Manager page and is enabled.
 - Open a new tab and check whether the extension is working as expected.
 
-I've confirmed the installation steps provided above and the extension works seamlessly. It effectively blocks YouTube ads and prevents ad-blocker detection popups, ensuring an uninterrupted and ad-free browsing experience.
 
-**If you find this helpful, please give a star to this repository and share it with your friends. Your support is greatly appreciated!**
-
-## To-Do List
-
-Implement a toggle button feature for enabling or disabling the extension.
 
 
 
