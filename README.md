@@ -64,9 +64,5 @@ I've confirmed the installation steps provided above and the extension works sea
 
 Implement a toggle button feature for enabling or disabling the extension.
 
-## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=kananinirav/Youtube-AdBlocker&type=Date)](https://star-history.com/#kananinirav/Youtube-AdBlocker&Date)
-
-## Contributors
 
